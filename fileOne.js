@@ -1,1 +1,3 @@
 Something changed here too
+SVGPathSegLinetoHorizontalAbs
+SVGPathSegLinetoHorizontalAbs
